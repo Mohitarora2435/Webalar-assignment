@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import HeroVideoDialog from "./HeroVideoDialog.jsx";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "./Carousel";
-import { features } from "./metadata";
-import FeaturesCard from "./FeaturesCard";
+import { features } from "./metadata.js";
+import FeaturesCard from "./FeaturesCard.jsx";
 
 export default function GamePlayVideos() {
     const [current, setCurrent] = useState(1);

@@ -1,7 +1,7 @@
 
 
 
-import GameModeCard from "./GameModeCard";
+import GameModeCard from "./GameModeCard.jsx";
 
 
 

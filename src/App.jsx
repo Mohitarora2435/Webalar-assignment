@@ -1,10 +1,10 @@
 import "./index.css";
-import Bottom from "./page/bottom";
-import Footer from "./page/footer";
-import Hero from "./page/hero";
-import Middle from "./page/middle";
-import Middle2 from "./page/Middle2";
-import Middle3 from "./page/Middle3"
+import Bottom from "./page/bottom.jsx";
+import Footer from "./page/footer.jsx";
+import Hero from "./page/hero.jsx";
+import Middle from "./page/middle.jsx";
+import Middle2 from "./page/Middle2.jsx";
+import Middle3 from "./page/Middle3.jsx"
 
 export default function LandingPage() {
   return (
